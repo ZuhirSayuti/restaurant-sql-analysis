@@ -1,0 +1,21 @@
+employee_id,name,branch_id,role
+1,Ali Al-Shammari,1,Chef
+2,Abdullah Saleh,4,Chef
+3,Abdullah Al-Harbi,5,Manager
+4,Rania Hassan,4,Chef
+5,Huda Al-Shammari,5,Manager
+6,Reem Al-Harbi,5,Cashier
+7,Dania Al-Dosari,3,Manager
+8,Reem Al-Zahrani,5,Chef
+9,Salman Hassan,4,Cashier
+10,Khalid Al-Zahrani,5,Cashier
+11,Faisal Al-Shammari,3,Cashier
+12,Mohammed Al-Shammari,3,Manager
+13,Dania Al-Maliki,4,Chef
+14,Reem Al-Shammari,2,Cashier
+15,Youssef Al-Dosari,2,Cashier
+16,Rania Al-Shammari,5,Cashier
+17,Lina Al-Shammari,1,Manager
+18,Rania Al-Harbi,5,Manager
+19,Faisal Al-Harbi,4,Chef
+20,Hassan Ali,4,Manager

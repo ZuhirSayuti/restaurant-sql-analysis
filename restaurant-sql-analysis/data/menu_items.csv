@@ -1,0 +1,16 @@
+item_id,item_name,category,price
+1,Chicken Burger,Chicken,16
+2,Spicy Chicken Wrap,Chicken,43
+3,Grilled Chicken Meal,Chicken,6
+4,Fried Chicken Bucket,Chicken,7
+5,Crispy Wings,Chicken,41
+6,Beef Burger,Burger,21
+7,Cheese Burger,Burger,6
+8,Veggie Burger,Burger,6
+9,Fries,Side,32
+10,Onion Rings,Side,27
+11,Cola,Drink,41
+12,Orange Juice,Drink,36
+13,Water Bottle,Drink,37
+14,Chocolate Cake,Dessert,5
+15,Ice Cream,Dessert,23
